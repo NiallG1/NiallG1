@@ -2,9 +2,9 @@
 
 🎓 My name is Niall Garvey and I am an **Bioinformatician** specializing in writing software for a range of genomic analysis projects. I have a Bachelors in Genetics & Molecular Biology (UCD) and a Masters (NUIG) in **Computational Genomics**. 
 
-👨‍💻 Current projects I am working on include writing an **R package called gutenTAG** for the **Bodenmiller Lab** to facilitate robust and efficient processing and analysis of Mass Spectrometry Imaging data, as well as a companion **RShiny app** to facilitate interactive visualisation of metapeaks and the generated images. These tools are being used by the Functional Genomics Center Zurich (FGCZ), the state-of-the-art research facility providing support for labs at ETH Zurich and the University of Zurich.
+👨‍💻 My previous projects include writing an **Infulenza analysis pipeline** for the **National Virus Laboratory UCD (NVRL)** to provide variant analysis on currently circulating strains of Influenza. I also constructed a database of all the NVRL's publications which is self updating on a monthly basis.
 
-🎸 Outside the work, I have many hobbies that help me to decompress. My hobbies range from sporty ones such as **running**, **snowboarding & skiing** and **Brazillian Jiu Jitsu**, to the more relaxing ones such as **playing guitar** and **reading**, typically history, philosophy or some fiction 📚.
+🎸 Outside of work, I have many hobbies that help me relax. My hobbies range from sports such as **hiking** and **Brazillian Jiu Jitsu**, to more relaxing ones such as **playing guitar** and **reading**, typically history or science fiction 📚.
 
 
 ## 🛠️ Skills
