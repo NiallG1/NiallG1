@@ -13,7 +13,7 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-28B6F6?style=for-the-badge&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-28B6F6?style=for-the-badge&logo=SQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-23395D?style=for-the-badge&logo=SQL&logoColor=white)
 
 ### Packages
 
