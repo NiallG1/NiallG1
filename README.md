@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 I am John Abbey and I am an **R Developer** specializing in writing software for Imaging Proteomics technologies. I have a Bachelors (UCD) and Masters (ETHZ) in **Biochemistry**. 
+🎓 My name is Niall Garvey and I am an **Bioinformatician** specializing in writing software for a range of genomic analysis projects. I have a Bachelors in Genetics & Molecular Biology (UCD) and a Masters (NUIG) in **Computational Genomics**. 
 
 👨‍💻 Current projects I am working on include writing an **R package called gutenTAG** for the **Bodenmiller Lab** to facilitate robust and efficient processing and analysis of Mass Spectrometry Imaging data, as well as a companion **RShiny app** to facilitate interactive visualisation of metapeaks and the generated images. These tools are being used by the Functional Genomics Center Zurich (FGCZ), the state-of-the-art research facility providing support for labs at ETH Zurich and the University of Zurich.
 
@@ -13,22 +13,20 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-28B6F6?style=for-the-badge&logo=R&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-28B6F6?style=for-the-badge&logo=SQL&logoColor=white)
 
 ### Packages
 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FFA756?style=for-the-badge&logo=tensorflow&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D30000?style=for-the-badge&logo=keras&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-28B6F6?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-000080?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-40E0D0?style=for-the-badge&logo=numpy&logoColor=black)
-![scanpy](https://img.shields.io/badge/Scanpy-FFC0CB?style=for-the-badge&logo=scanpy&logoColor=black)
+
 
 
 ![ggplot2](https://img.shields.io/badge/ggplot2-grey?style=for-the-badge&logo=ggplot&logoColor=black)
 ![tidyverse](https://img.shields.io/badge/tidyverse-3bb143?style=for-the-badge&logo=tidyverse&logoColor=black)
-![Rshiny](https://img.shields.io/badge/rshiny-lightblue?style=for-the-badge&logo=shiny&logoColor=black)
 ![RMarkdown](https://img.shields.io/badge/Rmarkdown-D30000?style=for-the-badge&logo=rmarkdown&logoColor=black)
-![seurat](https://img.shields.io/badge/Seurat-A020F0?style=for-the-badge&logo=seurat&logoColor=black)
+
 
 
 ### Design Tools
