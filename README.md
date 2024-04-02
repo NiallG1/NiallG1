@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 My name is Niall Garvey and I am an **Bioinformatician** specializing in writing software for a range of genomic analysis projects. I have a Bachelors in Genetics & Molecular Biology (UCD) and a Masters (NUIG) in **Computational Genomics**. 
+🎓 My name is Niall Garvey and I am a **Bioinformatician** specializing in writing software for a range of genomic analysis projects. I have a Bachelors in Genetics & Molecular Biology (UCD) and a Masters (NUIG) in **Computational Genomics**. 
 
 👨‍💻 My previous projects include writing an **Infulenza analysis pipeline** for the **National Virus Laboratory UCD (NVRL)** to provide variant analysis on currently circulating strains of Influenza. I also constructed a database of all the NVRL's publications which is self updating on a monthly basis.
 
